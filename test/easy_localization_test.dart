@@ -90,6 +90,7 @@ void main() {
           Locale('es'),
           Locale('es', 'AR')
         ],
+        nestedKeysDisabled: false,
         path: 'path/en-us.json',
         useOnlyLangCode: false,
         useFallbackTranslations: true,
